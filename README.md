@@ -15,3 +15,8 @@ Listas
 3. Tres
 
 **Texto en negritas**
+
+_Texto italica_
+
+***Texto italica negrita***
+
