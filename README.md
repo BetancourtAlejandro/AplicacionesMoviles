@@ -1,11 +1,16 @@
 # Título
 ## Título 2
 ### Título 3
-#### Título 4
-##### Título 5
 
 Viñetas
 
 * Viñeta 1
 * Viñeta 2
 * Viñeta 3
+
+Listas
+
+1.- Uno
+2.- Dos
+3.- Tres
+
