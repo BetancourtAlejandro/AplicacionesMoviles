@@ -20,4 +20,5 @@ _Texto italica_
 
 ***Texto italica negrita***
 
+Mostrar una imágen
 ![Ciclo de vida de una android app](https://media.geeksforgeeks.org/wp-content/uploads/20210303165235/ActivityLifecycleinAndroid-601x660.jpg)
